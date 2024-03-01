@@ -1,0 +1,4 @@
+Hi Team, <br><br> 
+The Bot has encountered System Exception for Accounts Receivable Process .
+<br><b>System Exception:@@ </b> 
+<br><br> BOT,<br> RPA Team
